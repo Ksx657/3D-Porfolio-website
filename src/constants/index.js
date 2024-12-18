@@ -144,22 +144,24 @@ export const skills = [
     
     
 ];
+
+
 export const socialLinks = [
-    {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
-    },
-    {
-        name: 'GitHub',
-        iconUrl: github,
-        link: 'https://github.com/Ksx657',
-    },
-    {
-        name: 'LinkedIn',
-        iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/kavindya-wijayashantha-169589212',
-    }
+  {
+    name: "Contact",
+    iconUrl: contact,
+    link: "/contact",
+  },
+  {
+    name: "GitHub",
+    iconUrl: github,
+    link: "https://github.com/Kavindya-Wijayashantha",
+  },
+  {
+    name: "LinkedIn",
+    iconUrl: linkedin,
+    link: "https://www.linkedin.com/in/kavindya-wijayashantha-169589212",
+  },
 ];
 
 
@@ -169,13 +171,13 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Magro Lanka Inventory System',
         description: 'I developed an Inventory Management System for Magro Lanka Pvt Ltd using the MERN stack. The system streamlined inventory tracking and improved operational efficiency through a user-friendly interface and secure APIs.Technologies Used:MongoDB,Express.js,React.js,Node.js',
-        link: 'https://github.com/Ksx657/Inventory_Management_System',
+        link: 'https://github.com/Kavindya-Wijayashantha/Inventory_Management_System',
     },
     {
         iconUrl: medishop,
         theme: 'btn-back-green',
         name: 'MediShop',
-        description: 'I developed a Django application for a pharmaceutical shop to manage patient records and medicine inventory efficiently. The system ensures secure data handling, streamlines daily operations, and supports accurate tracking for improved service delivery.Technologies Used:Django',
+        description: 'We developed a Django application for a pharmaceutical shop to manage patient records and medicine inventory efficiently. The system ensures secure data handling, streamlines daily operations, and supports accurate tracking for improved service delivery.Technologies Used:Django',
         link: 'https://github.com/kpkmaduwantha9/mediapplication',
     },
     {
@@ -183,14 +185,14 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Jade ChatBot',
         description: 'I created a chatbot using OpenAI GPT-4o designed to provide intelligent and interactive responses. The chatbot enhances user engagement by understanding and responding to queries in natural language, offering a seamless conversational experience.Technologies Used:OpenAi,Streamlit',
-        link: 'https://github.com/Ksx657/Jade-ChatBot',
+        link: 'https://github.com/Kavindya-Wijayashantha/Jade-ChatBot',
     },
     {
         iconUrl: linkedin,
         theme: 'btn-back-pink',
         name: 'LinkedIn Post Generator',
         description: 'I developed a LinkedIn Post Generator that allows users to select a topic and desired post length, then automatically generates a LinkedIn post. This tool simplifies content creation by providing tailored, engaging posts for various topics.Technologies Used:llama 3model,Streamlit,pandas',
-        link: 'https://github.com/Ksx657/Jade-ChatBot',
+        link: 'https://github.com/Kavindya-Wijayashantha/LinkedIn-post-generator',
     },
     
     {
@@ -198,14 +200,14 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Rainfall Prediction System',
         description: 'An ML model that predicts rainfall built using numpy,pandas and sci-kit Learn',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: 'https://github.com/Kavindya-Wijayashantha/rainfall-prediction-using-ML',
     },
     {
         iconUrl: building,
         theme: 'btn-back-yellow',
         name: 'Real Estate Price Prediction Website',
         description: 'This is a ML model that can predicts prices of the real estate when they give their requirements and complimented with an easy to use User Intraface.Technologies Used:numpy,pandas,sci-kit learn,Html,css',
-        link: 'https://github.com/Ksx657/real-estate-prediction-website',
+        link: 'https://github.com/Kavindya-Wijayashantha/real-estate-prediction-website',
     }
 
 ];
